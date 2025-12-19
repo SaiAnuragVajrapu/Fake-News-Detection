@@ -8,7 +8,7 @@ This project focuses on detecting fake news articles using Natural Language Proc
 
 Fake news has become a major challenge in the digital era. This project applies text preprocessing, feature extraction, and supervised machine learning algorithms to automatically identify fake news.
 
-The complete implementation is provided in a **Jupyter Notebook**, covering:
+The complete implementation is provided with:
 - Data loading
 - Text cleaning
 - Feature extraction
