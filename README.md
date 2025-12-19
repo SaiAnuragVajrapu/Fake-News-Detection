@@ -66,10 +66,10 @@ These metrics help measure how effectively the model distinguishes between fake 
 ##  How to Run the Project
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/your-username/fake-news-detection.git
    
-   ```
+```
 
 2.Navigate to the project directory:
  ```bash
