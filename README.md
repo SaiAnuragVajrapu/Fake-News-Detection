@@ -27,16 +27,6 @@ The complete implementation is provided in a **Jupyter Notebook**, covering:
 
 ---
 
-## Project Structure
-
-fake-news-detection/
-│
-├── fake-news-detection-project.ipynb # Main implementation notebook
-├── README.md # Project documentation
-
-
----
-
 ## Workflow
 
 1. **Data Loading**
@@ -84,14 +74,14 @@ These metrics help measure how effectively the model distinguishes between fake 
 2.Navigate to the project directory:
  ```bash
 
-cd fake-news-detection
+   cd fake-news-detection
 
  ```
 
 3.Open the notebook:
  ```bash
 
-jupyter notebook fake-news-detection-project.ipynb
+  jupyter notebook fake-news-detection-project.ipynb
 
  ```
 
