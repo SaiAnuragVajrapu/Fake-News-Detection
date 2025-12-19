@@ -16,6 +16,11 @@ The complete implementation is provided with:
 - Model evaluation
 
 
+## Dataset
+
+*https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset*
+
+
 
 ## Technologies Used
 
