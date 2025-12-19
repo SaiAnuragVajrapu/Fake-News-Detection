@@ -2,7 +2,7 @@
 
 This project focuses on detecting fake news articles using Natural Language Processing (NLP) and Machine Learning techniques. The model classifies news as **Fake** or **Real** based on the textual content.
 
----
+
 
 ## Project Overview
 
@@ -15,7 +15,7 @@ The complete implementation is provided in a **Jupyter Notebook**, covering:
 - Model training
 - Model evaluation
 
----
+
 
 ## Technologies Used
 
@@ -25,7 +25,7 @@ The complete implementation is provided in a **Jupyter Notebook**, covering:
 - **NLTK**
 - **Scikit-learn**
 
----
+
 
 ## Workflow
 
@@ -49,7 +49,7 @@ The complete implementation is provided in a **Jupyter Notebook**, covering:
    - Confusion matrix
    - Classification report
 
----
+
 
 ## Model Performance
 
@@ -61,7 +61,7 @@ The trained model is evaluated using standard classification metrics such as:
 
 These metrics help measure how effectively the model distinguishes between fake and real news.
 
----
+
 
 ##  How to Run the Project
 
